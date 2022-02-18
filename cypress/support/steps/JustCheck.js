@@ -1,4 +1,4 @@
-import { Homepage } from "../pages/actions/homepage.po";
+import { Homepage } from "../pages/actions/homepage";
 import { BaseAction } from "../common/baseAction";
 import { Constant } from "../common/constants";
 
